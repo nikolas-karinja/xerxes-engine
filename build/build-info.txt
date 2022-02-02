@@ -1,0 +1,8 @@
+Xerxes Engine r2
+WebGL-based JavaScript Engine
+Developed by Nikolas Karinja
+
+NOTE: This Engine utilizes some of the source code of the library "Three.js".
+The reason for doing so was the fact that "Three.js" is open-source and probides
+an excellent base for any WebGL-based engine. The revision of "Three.js" in which 
+the current revision of the Xerxes Engine is based upon is "138dev".
